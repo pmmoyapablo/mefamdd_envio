@@ -1,0 +1,10 @@
+Contiene todos los siguienetes Archivos PHP:
+
+1.- FH_Datos: Registros de Fecha/Hora, todos los referente a:
+	1.1.- Fecha y hora actual del servidor.
+	1.2.- Cambio de formato de dd/mm/yyyy a yyyy/mm/dd y viceversa.
+	1.3.- Sumar X dias a una fecha dada.
+
+2.- PC_Datos: contiene todos los datos referentes al computador:
+	2.1.- Ip de la maquina que esta operando actualmente.
+	2.2.- NameHost nombre de la maquina que esta operando actualmente.
